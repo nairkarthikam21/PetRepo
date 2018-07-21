@@ -24,7 +24,7 @@ public class charFind {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
       charFind obj=new charFind();
-      obj.getString("Kripa");
+      obj.getString("karthika");
 	}
 
 }
